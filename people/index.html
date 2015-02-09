@@ -1,0 +1,52 @@
+---
+layout: gallery
+---
+<div class="container">
+{% assign loopindex = 0 %}
+{% for post in site.posts %}
+  {% assign loopindex = loopindex | plus: 1 %}
+  {% assign rowfinder = loopindex | modulo: 3 %}
+  {% if rowfinder == 1 %}
+    <div class="row">
+      <div class="col-md-4 addtop-only">
+        <a style="hover-images" href="{{ post.url }}">
+          <img class="all-images centered lazy" src="/images/{{ post.img }}">
+        </a>
+        <h4 class="text-centered">
+          <a href="{{ post.url }}">{{ post.title }}</a>
+        </h4>
+        <p class="text-centered smaller">
+          {{ post.desc }}
+        </p>
+      </div>
+  {% elsif rowfinder == 0 %}
+  <div class="col-md-4 addtop-only">
+    <a style="hover-images" href="{{ post.url }}">
+      <img class="all-images centered lazy" src="/images/{{ post.img }}">
+    </a>
+    <h4 class="text-centered">
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </h4>
+    <p class="text-centered smaller">
+      {{ post.desc }}
+    </p>
+  </div>
+    </div>
+  {% else %}
+  <div class="col-md-4 addtop-only">
+    <a style="hover-images" href="{{ post.url }}">
+      <img class="all-images centered lazy" src="/images/{{ post.img }}">
+    </a>
+    <h4 class="text-centered">
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </h4>
+    <p class="text-centered smaller">
+      {{ post.desc }}
+    </p>
+  </div>
+  {% endif %}
+{% endfor %}
+{% if rowfinder != 0 %}
+      </div>
+{% endif %}
+</div>
