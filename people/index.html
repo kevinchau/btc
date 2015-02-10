@@ -9,7 +9,7 @@ layout: gallery
     <div class="row">
       <div class="col-md-4 addtop-only">
         <a style="hover-images" href="{{ post.url }}">
-          <img class="all-images centered lazy" src="/images/{{ post.img }}">
+          <img class="all-images centered lazy" src="/images/{{ post.img-500 }}">
         </a>
         <h4 class="text-centered">
           <a href="{{ post.url }}">{{ post.title }}</a>
@@ -21,7 +21,7 @@ layout: gallery
   {% elsif rowfinder == 0 %}
   <div class="col-md-4 addtop-only">
     <a style="hover-images" href="{{ post.url }}">
-      <img class="all-images centered lazy" src="/images/{{ post.img }}">
+      <img class="all-images centered lazy" src="/images/{{ post.img-500 }}">
     </a>
     <h4 class="text-centered">
       <a href="{{ post.url }}">{{ post.title }}</a>
@@ -34,7 +34,7 @@ layout: gallery
   {% else %}
   <div class="col-md-4 addtop-only">
     <a style="hover-images" href="{{ post.url }}">
-      <img class="all-images centered lazy" src="/images/{{ post.img }}">
+      <img class="all-images centered lazy" src="/images/{{ post.img-500 }}">
     </a>
     <h4 class="text-centered">
       <a href="{{ post.url }}">{{ post.title }}</a>
