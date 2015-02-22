@@ -2,12 +2,12 @@
 layout: post
 title:  "Bob Crimmins"
 categories: blog
-img-500: bob-crimmins-500.jpg
-img-1000: bob-crimmins-1000.jpg
+img-500: bob-crimmins-500v2.jpg
+img-1000: bob-crimmins-1000v2.jpg
 desc: "Inspiring the next generation of young entrepreneurs."
 ---
 
-![Bob Crimmins](/images/bob-crimmins-1000.jpg)
+![Bob Crimmins](/images/bob-crimmins-1000v2.jpg)
 
 > Entrepreneurship is hard. There's no way you can learn it without doing it.
 
