@@ -11,11 +11,11 @@ desc: "Inspiring the next generation of young entrepreneurs."
 
 > Entrepreneurship is hard. There's no way you can learn it without doing it.
 
-Bob actively contributes to various Seattle organizations. He's on the board of Women in Tech Seattle, organizes Startup Poker 2.0, Founder to Founder, Techstars, 9Mile Labs, and TiE Young Entrepreneurs.
+Bob actively contributes to various Seattle organizations. He's on the board of Women in Tech Seattle, organizes Startup Poker 2.0 and Founder to Founder, and mentors entrepreneurs with Techstars, 9Mile Labs, and TiE Young Entrepreneurs.
 
-Coming from an entrepreneurial family, seeing and helping the family business grow from dog breeding, to rabbits, to a full on woodworking enterprise. There were lots of entrepreneurial influences growing up.
+Coming from an entrepreneurial family, seeing and helping the family businesses evolve from dog breeding, to rabbit farming, to large-scale wood product manufacturing. There were lots of entrepreneurial influences growing up.
 
-Now he's passing those experiences onto his two daughters, Sarah and Annalise.
+Now he's passing those experiences on to his two daughters, Sarah and Annalise.
 
 ### Women in Tech and Entrepreneurs
 
@@ -33,9 +33,7 @@ Bob is trying to do with his daughters what he's doing with Women in Tech.
 
 Wise Walker really started as a way for Bob to work on a project with his twins. The goal was to not go too big - there was no goal of fame or publicity.
 
-> It really started with an idea to learn product and customer development. There was this lady at the dog park being pulled by a huge dog, quite grumpy in fact.
-
-It started with customer development, it was a surprise to Bob that his Sarah and Annalise had already known what that was. That, and a visceral dislike of picking up and carrying what the dog left behind.
+It all started with a random dog walk and the girls' visceral reaction to the prospect have having to carry around a bag of dog doo. "That's what entrepreneurs do, girls... they try to solve problems."  After noodling together on solutions, Bob introduced the girls to the idea of customer development... and that's just what they did next.
 
 The idea for a Kickstarter came later.
 
